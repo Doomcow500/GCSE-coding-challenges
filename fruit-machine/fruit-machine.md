@@ -1,6 +1,5 @@
 The solution for Speed Tracker! 
 ```
-# sourcery skip: assign-if-exp
 import random
 
 #possible rolls
