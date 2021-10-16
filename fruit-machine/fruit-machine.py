@@ -1,4 +1,4 @@
-# sourcery skip: assign-if-exp
+
 import random
 
 #possible rolls
