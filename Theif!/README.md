@@ -1,4 +1,9 @@
 The solution to Theif! (requires itertools library)
+
+Prerequisites:
+itertools
+''' pip install itertools'''
+
 ```
 #imports itertools to make this much easier
 import itertools
